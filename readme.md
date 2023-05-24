@@ -7,4 +7,6 @@ SOLUZIONE:
 2 - Creare array con elementi della lista della spesa
 3 - Collegare con getElementById ul alla logica con l'id
 4 - Creare il ciclo while
-5 - Stamapare in pagina con inner.HTML gli elementi della lista
+    4.1 - Creare elemento li
+    4.2 - Restituire il contenuto testuale con .innerText
+5 - Stampare in pagina con .append gli elementi della lista
