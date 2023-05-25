@@ -12,11 +12,11 @@ let i= 0;
 // CICLO WHILE
 while(i<shopping.length){
     let item= shopping[i];
-    i++;
-
+    
     let list_item= document.createElement('li');
-    list_item.innerText= item
+    list_item.innerText= item;
     shopping_list.append(list_item);
+    i++;
 }
 
 
